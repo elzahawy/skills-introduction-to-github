@@ -23,11 +23,11 @@ People use GitHub to build some of the most advanced technologies in the world. 
 ### 🛠️ Tech Stack
 - Languages: **Python, Java, SQL**  
 - Frameworks: **Spring Boot, Flask**  
-- Tools: **Git, Linux, Docker, GitHub Actions** 
+- Tools: **Git, Linux, Docker, GitHub Actions*
 
 ### 📫 Connect with Me
 - LinkedIn: [Keinan Abdi](https://www.linkedin.com/in/keinan-abdi-645049292/)  
-- Email: your-elzahawiiabdi@gmail.com  
+- Email: elzahawiiabdi@gmail.com  
 
 
 In this exercise, you will:
