@@ -11,6 +11,24 @@ People use GitHub to build some of the most advanced technologies in the world. 
 - **What you'll build**: We'll make a short Markdown file you can use as your [profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme).
 - **Prerequisites**: None. This exercise is a great introduction for your first day on GitHub.
 - **How long**: This exercise takes less than one hour to complete.
+- # Hi 👋, I'm Keinan Abdi  
+
+💻 **Software Engineering Student @ ALX** | Aspiring **Back-End Developer** | Exploring **DevOps & Cloud**  
+
+### About Me
+- 🌱 Currently learning **Back-End Development & DevOps**  
+- 💡 Interested in building scalable and reliable systems  
+- 👨‍💻 Always open to collaboration and contributing to open-source projects  
+
+### 🛠️ Tech Stack
+- Languages: **Python, Java, SQL**  
+- Frameworks: **Spring Boot, Flask**  
+- Tools: **Git, Linux, Docker, GitHub Actions** 
+
+### 📫 Connect with Me
+- LinkedIn: [Keinan Abdi](https://www.linkedin.com/in/keinan-abdi-645049292/)  
+- Email: your-elzahawiiabdi@gmail.com  
+
 
 In this exercise, you will:
 
